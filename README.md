@@ -20,7 +20,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/photogram.git
+    git clone https://github.com/amansachann/photogram.git
     cd photogram
     ```
 
